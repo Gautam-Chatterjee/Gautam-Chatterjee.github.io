@@ -54,13 +54,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University Of Massachusetts at Amherst",
         "degree":"Bachelors in Computer Science and Mathematics",
         "graduated":"Expected May 2022",
-        "description":"At Umass, I am an active member of the UMass ACM and the Umass DSC. Last summer I joined a team of developers to create an appointment making application for the College of Information and Computer Sciences Advising office. I am also a volunteer peer mentor and I help new students adjust to the online learning experience."
+        "description":"At Umass, I am an active member of the UMass ACM and the Umass DSC. Last summer I joined a team of developers to create an appointment making application for the College of Information and Computer Sciences Advising office. I am also a volunteer peer mentor and I have been helping new students adjust to the online learning experience."
       }
     ],
     "work":[
