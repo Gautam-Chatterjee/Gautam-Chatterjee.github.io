@@ -2,54 +2,30 @@
   "main": {
     "name":"Gautam Chatterjee",
     "occupation":"Full Stack Developer",
-    "description":"I am a Sophomore Computer Science and Mathematics major at UMass Amherst. Looking for Software Engineering Internships for Summer 2021",
-    "bio":"I am a Sophomore at the University of Massachusetts Amherst, majoring in Computer Science and Mathematics. I have spent a lot of time building scalable, full stack, web applications both inside and outside the class. I have experience designing and building applications using technologies like Node, React, Express and MongoDB.",
+    "description":"I am a rising Junior at UMass Amherst majoring in Computer Science and Mathematics. Looking for Software Engineering Internships for Summer 2022",
+    "bio":"I am a rising Junior at the University of Massachusetts Amherst, majoring in Computer Science and Mathematics. I have spent a lot of time building scalable, full stack, web applications both inside and outside the class. I have experience designing and building applications using technologies like Node, React, Express and MongoDB.",
     "contactmessage":"Send me a message!",
     "email": "gchatterjee@umass.edu",
     "phone": "+91 78995 09505",
     "address":{
-      "street":"Webster Hall, 144 Orchard Hill Drive",
+      "street":"University of Massachusetts Amherst, 160 Clark Hill Rd",
       "city":"Amherst",
       "state":"MA",
-      "zip": "01003"
+      "zip": "01002"
     },
     "website": "http://www.timbakerdev.com",
    "resumedownload":"",
     "social":[
-      {
-        "name":"facebook", 
-        "url":"https://www.facebook.com/gautam.chatterjee.12914",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"https://google.com",
-        "className":"fa fa-google-plus"
-      },
+    
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/gautam-chatterjee-993a411a3/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://instagram.com",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
         "url":"https://github.com/Gautam-Chatterjee",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -59,15 +35,17 @@
       {
         "school":"University Of Massachusetts at Amherst",
         "degree":"Bachelors in Computer Science and Mathematics",
-        "graduated":"Expected May 2022",
-        "description":"At Umass, I am an active member of the UMass ACM and the Umass DSC. Last summer I joined a team of developers to create an appointment making application for the College of Information and Computer Sciences Advising office. I am also a volunteer peer mentor and I have been helping new students adjust to the online learning experience."
-      }
-    ],
+        "graduated":"Expected May 2023",
+        "description":"At Umass, I am an active member of the UMass ACM Machine Learning club and the Umass DSC. This summer I worked as an Undergraduate Research Assistant at CICS, working on solving Fair Allocation problems using Neural Networks under doctoral student Justin Payan. I will be starting my position as an Undergraduate Teaching Assitant for CS 320, The undergraduate Software Engineering Course at Umass Amherst starting Fall 2021."}],
     "work":[
+      {"company":"College Of Information and Computer Sciences",
+        "title":"Undergraduate Research Assistant",
+        "years":"May 2021- July 2021",
+        "description": "Worked on Fair Allocation Problems with Doctoral Student Justin Payan using Neural Networks. Used Deep Learning tool PyTorch to train a neural network to search over probabilistic allocations and arrive at adeterministic allocation. Used the Neural Network to maximize ”welfare” and minimize ”envy”.Performed experiments with the mallows model with 50 agents and 100 goods which showed a linear increase in welfarewith decreasing entropy of the probabilistic distributions, Entropy ranged from 0.15 - 0.95."},
       {
-        "company":"College of Information and Computer Sciences",
+        "company":"Project ReachOut",
         "title":"Software Developer",
-        "years":"June 2010 - August 2020",
+        "years":"June 2020 - August 2020",
         "description":"Part of a team of students developing an appointment making application for the College of Information and Computer Sciences using React, Node and AWS. We aimed to streamline the process of scheduling appointments for both students and advisors by creating a visually appealing and intuitive interface while ensuring scalability."
       },
       {
@@ -140,6 +118,18 @@
         "category":"Interpreter written in JavaScript for a language resembling python.",
         "image":"Interpreter.png",
         "url":"https://github.com/Gautam-Chatterjee/DiscordBot"
+      },
+      {
+        "title": "Ethisim",
+        "category": "Ethisim is an ethics simulator that allows users to build a situation, include stakeholders and generate a simulation",
+        "image":"ethisim.png",
+        "url": "https://github.com/david-fisher/320-S21-Track2"
+      },
+      {
+        "title": "Fair-Allocation",
+        "category": "Neural Network used to solve Fair Allocation Problems, tested with probabilistic distribituions generated by the Mallows model",
+        "image":"fair-allocation.png",
+        "url": "https://github.com/Gautam-Chatterjee/Fair-Allocation/tree/main"
       }
       
     ]
